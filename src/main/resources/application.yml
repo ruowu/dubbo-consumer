@@ -2,7 +2,6 @@ server:
   port: 8081
 
 dubbo:
-  address: 192.168.227.132:2181
-  appName: testDubbo
+  address: 192.168.1.120:2181
   port: 20880
   version: test

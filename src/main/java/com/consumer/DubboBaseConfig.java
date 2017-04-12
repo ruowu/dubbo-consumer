@@ -14,9 +14,6 @@ public class DubboBaseConfig {
     @Value("${dubbo.address}")
     private String dubboAddress;
 
-    @Value("${dubbo.appName}")
-    private String dubboAppName;
-
     @Value("${dubbo.port}")
     private Integer port;
 
